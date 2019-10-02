@@ -1,0 +1,360 @@
+ID#	1
+Name	Na+
+	Data Filename	Sample Name	Sample ID	Sample Type	Vial#	Level#	Ret. Time	Area	Height	Conc.	Std. Conc.	Area%	Height%	Accuracy[%]	Cal. Point
+1	standard008.lcd	cation standard	008	Standard(Calc.Point)	51	1	3.385	28063	3811	-1.101	-----	100.000	100.000	-----	
+2	standard015.lcd	cation standard	015	Standard(Calc.Point)	51	1	3.388	34882	4727	-0.591	-----	95.359	96.514	-----	
+3	standard016.lcd	cation standard	016	Standard(Calc.Point)	52	2	3.383	40266	5474	-0.189	0.1282	94.575	95.406	-147.6	*
+4	standard009.lcd	cation standard	009	Standard(Calc.Point)	52	2	3.383	32590	4357	-0.763	0.1282	91.014	91.921	-594.9	*
+5	standard017.lcd	cation standard	017	Standard(Calc.Point)	53	3	3.386	54440	7466	0.870	0.2565	90.824	91.332	339.0	*
+6	standard010.lcd	cation standard	010	Standard(Calc.Point)	53	3	3.385	39547	5379	-0.243	0.2565	87.530	89.212	-94.7	*
+7	standard018.lcd	cation standard	018	Standard(Calc.Point)	54	4	3.386	54847	7524	0.900	0.5129	77.905	83.427	175.5	*
+8	standard011.lcd	cation standard	011	Standard(Calc.Point)	54	4	3.385	40933	5553	-0.139	0.5129	72.484	78.920	-27.2	*
+9	standard019.lcd	cation standard	019	Standard(Calc.Point)	55	5	3.388	60475	8266	1.320	1.0258	63.443	72.978	128.7	*
+10	standard012.lcd	cation standard	012	Standard(Calc.Point)	55	5	3.396	48404	6580	0.419	1.0258	57.726	68.306	40.8	*
+11	standard020.lcd	cation standard	020	Standard(Calc.Point)	56	6	3.407	127944	17385	6.360	4.1034	40.764	54.687	155.0	*
+12	standard013.lcd	cation standard	013	Standard(Calc.Point)	56	6	3.402	96748	13140	4.030	4.1034	38.705	51.565	98.2	*
+13	standard021.lcd	cation standard	021	Standard(Calc.Point)	57	7	3.438	250302	31854	15.500	16.4134	29.778	40.384	94.4	*
+14	standard014.lcd	cation standard	014	Standard(Calc.Point)	57	7	3.453	267939	33643	16.817	16.4134	29.934	40.433	102.5	*
+15	javits_set8_001.lcd	rain	8SE1	Unknown	61	0	3.383	30219	4059	-0.940	-----	92.852	93.363	-----	-----
+16	javits_set8_002.lcd	rain	8SE2	Unknown	62	0	3.387	28670	3866	-1.055	-----	91.692	92.395	-----	-----
+17	javits_set8_003.lcd	rain	8SE3	Unknown	63	0	3.382	31513	4249	-0.843	-----	93.297	93.467	-----	-----
+18	javits_set8_004.lcd	rain	8NW1	Unknown	64	0	3.383	31174	4226	-0.868	-----	90.710	92.319	-----	-----
+19	javits_set8_005.lcd	rain	8NW2	Unknown	65	0	3.385	34089	4632	-0.651	-----	91.962	92.720	-----	-----
+20	javits_set8_006.lcd	rain	8NW3	Unknown	66	0	3.383	30160	4094	-0.944	-----	91.917	92.606	-----	-----
+21	javits_set8_007.lcd	rain	8SW1	Unknown	67	0	3.384	35277	4729	-0.562	-----	91.465	92.809	-----	-----
+22	javits_set8_008.lcd	rain	8SW2	Unknown	68	0	3.384	34775	4678	-0.599	-----	93.214	93.904	-----	-----
+23	javits_set8_009.lcd	rain	8SW3	Unknown	69	0	3.384	33589	4540	-0.688	-----	93.319	93.489	-----	-----
+24	javits_set8_010.lcd	drain	8D1.1	Unknown	70	0	3.388	49951	6896	0.534	-----	28.477	50.803	-----	-----
+25	javits_set8_011.lcd	drain	8D1.2	Unknown	71	0	3.390	50888	6963	0.604	-----	28.883	51.023	-----	-----
+26	javits_set8_012.lcd	drain	8D1.3	Unknown	72	0	3.390	53642	7309	0.810	-----	28.721	51.802	-----	-----
+27	javits_set8_013.lcd	drain	8D2.1	Unknown	73	0	3.391	57502	7853	1.098	-----	31.516	53.922	-----	-----
+28	javits_set8_014.lcd	drain	8D2.2	Unknown	74	0	3.394	50819	6975	0.599	-----	28.354	50.728	-----	-----
+29	javits_set8_015.lcd	drain	8D2.3	Unknown	75	0	3.388	52523	7197	0.726	-----	29.430	51.418	-----	-----
+30	javits_set8_016.lcd	drain	8D3.1	Unknown	76	0	3.386	53637	7291	0.810	-----	30.163	52.203	-----	-----
+31	javits_set8_017.lcd	drain	8D3.2	Unknown	77	0	3.393	49928	6813	0.533	-----	28.335	50.197	-----	-----
+32	javits_set8_018.lcd	drain	8D3.3	Unknown	78	0	3.387	50963	6980	0.610	-----	28.379	50.561	-----	-----
+33	javits_set8_019.lcd	drain	8D4.1	Unknown	79	0	3.393	57217	7782	1.077	-----	31.119	53.496	-----	-----
+34	javits_set8_020.lcd	drain	8D4.2	Unknown	80	0	3.388	58061	7909	1.140	-----	31.753	53.914	-----	-----
+35	javits_set8_021.lcd	drain	8D4.3	Unknown	81	0	3.388	53683	7350	0.813	-----	29.829	51.959	-----	-----
+36	javits_set8_022.lcd	drain	8D5.1	Unknown	82	0	3.384	50722	6889	0.592	-----	28.620	50.508	-----	-----
+37	javits_set8_023.lcd	drain	8D5.2	Unknown	83	0	3.386	52038	7135	0.690	-----	29.085	51.421	-----	-----
+38	javits_set8_024.lcd	drain	8D5.3	Unknown	84	0	3.386	52362	7192	0.714	-----	29.214	51.468	-----	-----
+39	javits_set8_025.lcd	drain	8D6.1	Unknown	85	0	3.388	59722	8159	1.264	-----	31.975	54.624	-----	-----
+40	javits_set8_026.lcd	drain	8D6.2	Unknown	86	0	3.385	50447	6833	0.571	-----	28.410	50.243	-----	-----
+41	javits_set8_027.lcd	drain	8D6.3	Unknown	87	0	3.385	50311	6844	0.561	-----	28.024	50.093	-----	-----
+42	javits_set8_028.lcd	drain	8D7.1	Unknown	88	0	3.393	57880	7887	1.126	-----	31.734	53.885	-----	-----
+43	javits_set8_029.lcd	drain	8D7.2	Unknown	89	0	3.388	56222	7700	1.003	-----	31.103	53.361	-----	-----
+44	javits_set8_030.lcd	drain	8D7.3	Unknown	90	0	3.387	54572	7445	0.879	-----	29.979	52.309	-----	-----
+45	javits_set8_031.lcd	drain	8D8.1	Unknown	91	0	3.391	69351	9476	1.983	-----	35.529	58.145	-----	-----
+46	javits_set8_032.lcd	drain	8D8.2	Unknown	92	0	3.385	49406	6768	0.493	-----	28.055	50.205	-----	-----
+47	javits_set8_033.lcd	drain	8D8.3	Unknown	93	0	3.391	66836	9160	1.795	-----	35.890	58.267	-----	-----
+48	javits_set8_034.lcd	drain	8D9.1	Unknown	94	0	3.385	49425	6719	0.495	-----	28.198	49.758	-----	-----
+49	javits_set8_035.lcd	drain	8D9.2	Unknown	95	0	3.386	51864	7076	0.677	-----	28.993	50.903	-----	-----
+50	javits_set8_036.lcd	drain	8D9.3	Unknown	96	0	3.385	49427	6732	0.495	-----	27.811	49.644	-----	-----
+51	javits_set8_037.lcd	drain	8D10.1	Unknown	97	0	3.396	69819	9674	2.018	-----	32.198	57.069	-----	-----
+52	javits_set8_038.lcd	drain	8D10.2	Unknown	98	0	3.384	46893	6374	0.306	-----	28.257	49.860	-----	-----
+53	javits_set8_039.lcd	drain	8D10.3	Unknown	99	0	3.390	66895	9173	1.800	-----	36.289	59.065	-----	-----
+54	javits_set8_040.lcd	drain	8D11.1	Unknown	100	0	3.385	49337	6720	0.488	-----	28.905	50.948	-----	-----
+55	javits_set8_041.lcd	drain	8D11.2	Unknown	101	0	3.385	47548	6478	0.355	-----	27.924	49.996	-----	-----
+56	javits_set8_042.lcd	drain	8D11.3	Unknown	102	0	3.388	62168	8511	1.447	-----	34.295	57.000	-----	-----
+57	standard001.lcd	cation standard	001	Standard(No Calc.Point)	51	1	3.380	11627	1535	-2.328	-----	100.000	100.000	-----	-----
+58	standard002.lcd	cation standard	002	Standard(No Calc.Point)	52	2	3.379	16809	2219	-1.941	0.1282	87.472	87.589	-1514.3	-----
+59	standard003.lcd	cation standard	003	Standard(No Calc.Point)	53	3	3.380	20374	2744	-1.675	0.2565	70.617	77.712	-653.1	-----
+60	standard004.lcd	cation standard	004	Standard(No Calc.Point)	54	4	3.380	22347	3017	-1.528	0.5129	53.527	66.045	-297.9	-----
+61	standard005.lcd	cation standard	005	Standard(No Calc.Point)	55	5	3.384	32088	4353	-0.800	1.0258	47.266	59.342	-78.0	-----
+62	standard006.lcd	cation standard	006	Standard(No Calc.Point)	56	6	3.408	85308	11550	3.175	4.1034	36.486	49.064	77.4	-----
+63	standard007.lcd	cation standard	007	Standard(No Calc.Point)	57	7	3.437	235513	30039	14.395	16.4134	28.292	38.913	87.7	-----
+	Average						3.390	58619	7872	1.182		51.104	65.105	261.5	
+	%RSD						0.388983	80.400303	75.630261	297.921710		54.465621	29.334174	137.568499	
+	Maximum						3.453	267939	33643	16.817		100.000	100.000	1514.3	
+	Minimum						3.379	11627	1535	-2.328		27.811	38.913	0.0	
+	Std. Dev.						0.013187	47129.529552	5953.802909	3.520394		27.834309	19.098038	359.723038	
+
+ID#	2
+Name	NH4+ -N
+	Data Filename	Sample Name	Sample ID	Sample Type	Vial#	Level#	Ret. Time	Area	Height	Conc.	Std. Conc.	Area%	Height%	Accuracy[%]	Cal. Point
+1	standard008.lcd	cation standard	008	Standard(Calc.Point)	51	1	-----	-----	-----	-----	-----	-----	-----	-----	
+2	standard015.lcd	cation standard	015	Standard(Calc.Point)	51	1	-----	-----	-----	-----	-----	-----	-----	-----	
+3	standard016.lcd	cation standard	016	Standard(Calc.Point)	52	2	-----	-----	-----	-----	0.0781	-----	-----	-----	
+4	standard009.lcd	cation standard	009	Standard(Calc.Point)	52	2	3.706	1384	164	0.095	0.0781	3.866	3.462	122.2	*
+5	standard017.lcd	cation standard	017	Standard(Calc.Point)	53	3	3.704	2112	289	0.141	0.1563	3.524	3.532	90.5	*
+6	standard010.lcd	cation standard	010	Standard(Calc.Point)	53	3	3.711	2267	307	0.151	0.1563	5.017	5.095	96.8	*
+7	standard018.lcd	cation standard	018	Standard(Calc.Point)	54	4	3.708	4722	618	0.306	0.3125	6.708	6.856	98.1	*
+8	standard011.lcd	cation standard	011	Standard(Calc.Point)	54	4	3.709	4902	650	0.318	0.3125	8.680	9.231	101.7	*
+9	standard019.lcd	cation standard	019	Standard(Calc.Point)	55	5	3.709	9917	1308	0.635	0.625	10.404	11.544	101.6	*
+10	standard012.lcd	cation standard	012	Standard(Calc.Point)	55	5	3.721	10070	1321	0.645	0.625	12.009	13.718	103.1	*
+11	standard020.lcd	cation standard	020	Standard(Calc.Point)	56	6	3.722	38715	5335	2.455	2.5	12.335	16.782	98.2	*
+12	standard013.lcd	cation standard	013	Standard(Calc.Point)	56	6	3.725	39244	5337	2.489	2.5	15.700	20.946	99.6	*
+13	standard021.lcd	cation standard	021	Standard(Calc.Point)	57	7	3.767	154030	21127	9.745	10	18.325	26.784	97.5	*
+14	standard014.lcd	cation standard	014	Standard(Calc.Point)	57	7	3.781	162275	22157	10.267	10	18.129	26.629	102.7	*
+15	javits_set8_001.lcd	rain	8SE1	Unknown	61	0	3.709	1219	152	0.085	-----	3.744	3.488	-----	-----
+16	javits_set8_002.lcd	rain	8SE2	Unknown	62	0	3.711	1279	170	0.089	-----	4.089	4.067	-----	-----
+17	javits_set8_003.lcd	rain	8SE3	Unknown	63	0	3.708	1144	158	0.080	-----	3.385	3.477	-----	-----
+18	javits_set8_004.lcd	rain	8NW1	Unknown	64	0	3.712	1290	146	0.089	-----	3.754	3.191	-----	-----
+19	javits_set8_005.lcd	rain	8NW2	Unknown	65	0	3.709	1086	148	0.077	-----	2.931	2.973	-----	-----
+20	javits_set8_006.lcd	rain	8NW3	Unknown	66	0	3.707	1115	147	0.078	-----	3.399	3.325	-----	-----
+21	javits_set8_007.lcd	rain	8SW1	Unknown	67	0	3.706	1608	185	0.110	-----	4.169	3.630	-----	-----
+22	javits_set8_008.lcd	rain	8SW2	Unknown	68	0	3.711	1228	138	0.086	-----	3.292	2.765	-----	-----
+23	javits_set8_009.lcd	rain	8SW3	Unknown	69	0	3.705	1166	156	0.082	-----	3.241	3.207	-----	-----
+24	javits_set8_010.lcd	drain	8D1.1	Unknown	70	0	3.708	1007	151	0.072	-----	0.574	1.115	-----	-----
+25	javits_set8_011.lcd	drain	8D1.2	Unknown	71	0	3.711	1640	200	0.112	-----	0.931	1.467	-----	-----
+26	javits_set8_012.lcd	drain	8D1.3	Unknown	72	0	3.707	1449	183	0.100	-----	0.776	1.294	-----	-----
+27	javits_set8_013.lcd	drain	8D2.1	Unknown	73	0	3.709	1440	194	0.099	-----	0.789	1.335	-----	-----
+28	javits_set8_014.lcd	drain	8D2.2	Unknown	74	0	3.714	1287	177	0.089	-----	0.718	1.289	-----	-----
+29	javits_set8_015.lcd	drain	8D2.3	Unknown	75	0	3.707	1361	183	0.094	-----	0.763	1.310	-----	-----
+30	javits_set8_016.lcd	drain	8D3.1	Unknown	76	0	3.706	1571	204	0.107	-----	0.883	1.462	-----	-----
+31	javits_set8_017.lcd	drain	8D3.2	Unknown	77	0	3.711	1130	168	0.079	-----	0.641	1.239	-----	-----
+32	javits_set8_018.lcd	drain	8D3.3	Unknown	78	0	3.705	1274	180	0.088	-----	0.710	1.301	-----	-----
+33	javits_set8_019.lcd	drain	8D4.1	Unknown	79	0	3.710	1206	162	0.084	-----	0.656	1.113	-----	-----
+34	javits_set8_020.lcd	drain	8D4.2	Unknown	80	0	3.703	1790	218	0.121	-----	0.979	1.484	-----	-----
+35	javits_set8_021.lcd	drain	8D4.3	Unknown	81	0	3.707	1877	214	0.127	-----	1.043	1.511	-----	-----
+36	javits_set8_022.lcd	drain	8D5.1	Unknown	82	0	3.700	1602	209	0.109	-----	0.904	1.534	-----	-----
+37	javits_set8_023.lcd	drain	8D5.2	Unknown	83	0	3.706	1346	189	0.093	-----	0.752	1.364	-----	-----
+38	javits_set8_024.lcd	drain	8D5.3	Unknown	84	0	3.707	1265	171	0.088	-----	0.706	1.222	-----	-----
+39	javits_set8_025.lcd	drain	8D6.1	Unknown	85	0	3.705	1392	191	0.096	-----	0.745	1.276	-----	-----
+40	javits_set8_026.lcd	drain	8D6.2	Unknown	86	0	3.701	1452	181	0.100	-----	0.818	1.331	-----	-----
+41	javits_set8_027.lcd	drain	8D6.3	Unknown	87	0	3.706	2115	216	0.142	-----	1.178	1.579	-----	-----
+42	javits_set8_028.lcd	drain	8D7.1	Unknown	88	0	3.710	1832	221	0.124	-----	1.005	1.507	-----	-----
+43	javits_set8_029.lcd	drain	8D7.2	Unknown	89	0	3.708	1679	212	0.114	-----	0.929	1.466	-----	-----
+44	javits_set8_030.lcd	drain	8D7.3	Unknown	90	0	3.705	2104	198	0.141	-----	1.156	1.391	-----	-----
+45	javits_set8_031.lcd	drain	8D8.1	Unknown	91	0	3.708	1622	202	0.110	-----	0.831	1.237	-----	-----
+46	javits_set8_032.lcd	drain	8D8.2	Unknown	92	0	3.706	1295	181	0.090	-----	0.735	1.339	-----	-----
+47	javits_set8_033.lcd	drain	8D8.3	Unknown	93	0	3.705	2191	293	0.146	-----	1.177	1.863	-----	-----
+48	javits_set8_034.lcd	drain	8D9.1	Unknown	94	0	3.709	1720	222	0.117	-----	0.981	1.641	-----	-----
+49	javits_set8_035.lcd	drain	8D9.2	Unknown	95	0	3.702	1509	206	0.103	-----	0.843	1.483	-----	-----
+50	javits_set8_036.lcd	drain	8D9.3	Unknown	96	0	3.702	1633	205	0.111	-----	0.919	1.515	-----	-----
+51	javits_set8_037.lcd	drain	8D10.1	Unknown	97	0	-----	-----	-----	-----	-----	-----	-----	-----	-----
+52	javits_set8_038.lcd	drain	8D10.2	Unknown	98	0	3.701	1062	139	0.075	-----	0.640	1.087	-----	-----
+53	javits_set8_039.lcd	drain	8D10.3	Unknown	99	0	3.702	1186	153	0.083	-----	0.643	0.985	-----	-----
+54	javits_set8_040.lcd	drain	8D11.1	Unknown	100	0	3.705	1492	170	0.102	-----	0.874	1.292	-----	-----
+55	javits_set8_041.lcd	drain	8D11.2	Unknown	101	0	3.705	1111	151	0.078	-----	0.653	1.164	-----	-----
+56	javits_set8_042.lcd	drain	8D11.3	Unknown	102	0	3.708	1173	162	0.082	-----	0.647	1.087	-----	-----
+57	standard001.lcd	cation standard	001	Standard(No Calc.Point)	51	1	-----	-----	-----	-----	-----	-----	-----	-----	-----
+58	standard002.lcd	cation standard	002	Standard(No Calc.Point)	52	2	3.708	1196	164	0.084	0.0781	6.221	6.479	106.9	-----
+59	standard003.lcd	cation standard	003	Standard(No Calc.Point)	53	3	3.710	2858	340	0.189	0.1563	9.905	9.642	120.7	-----
+60	standard004.lcd	cation standard	004	Standard(No Calc.Point)	54	4	3.710	5106	672	0.331	0.3125	12.229	14.701	105.8	-----
+61	standard005.lcd	cation standard	005	Standard(No Calc.Point)	55	5	3.714	10401	1338	0.665	0.625	15.320	18.241	106.5	-----
+62	standard006.lcd	cation standard	006	Standard(No Calc.Point)	56	6	3.734	39771	5362	2.522	2.5	17.010	22.778	100.9	-----
+63	standard007.lcd	cation standard	007	Standard(No Calc.Point)	57	7	3.770	155831	21264	9.859	10	18.720	27.545	98.6	-----
+	Average						3.712	12134	1642	0.775		4.357	5.472	103.0	
+	%RSD						0.416645	290.694602	293.773593	287.719972		124.839947	133.401807	7.786328	
+	Maximum						3.781	162275	22157	10.267		18.720	27.545	122.2	
+	Minimum						3.700	1007	138	0.072		0.574	0.985	90.5	
+	Std. Dev.						0.015465	35271.703591	4824.889650	2.229780		5.439241	7.299733	8.020998	
+
+ID#	3
+Name	K+
+	Data Filename	Sample Name	Sample ID	Sample Type	Vial#	Level#	Ret. Time	Area	Height	Conc.	Std. Conc.	Area%	Height%	Accuracy[%]	Cal. Point
+1	standard008.lcd	cation standard	008	Standard(Calc.Point)	51	1	-----	-----	-----	-----	-----	-----	-----	-----	
+2	standard015.lcd	cation standard	015	Standard(Calc.Point)	51	1	4.654	1697	171	-0.159	-----	4.641	3.486	-----	
+3	standard016.lcd	cation standard	016	Standard(Calc.Point)	52	2	4.646	2310	264	-0.055	0.0781	5.425	4.594	-70.0	*
+4	standard009.lcd	cation standard	009	Standard(Calc.Point)	52	2	4.649	1833	219	-0.136	0.0781	5.120	4.617	-174.1	*
+5	standard017.lcd	cation standard	017	Standard(Calc.Point)	53	3	4.643	3388	420	0.129	0.1563	5.653	5.137	82.8	*
+6	standard010.lcd	cation standard	010	Standard(Calc.Point)	53	3	4.653	3367	343	0.126	0.1563	7.453	5.693	80.5	*
+7	standard018.lcd	cation standard	018	Standard(Calc.Point)	54	4	4.643	4554	518	0.328	0.3125	6.468	5.739	105.1	*
+8	standard011.lcd	cation standard	011	Standard(Calc.Point)	54	4	4.647	3502	419	0.149	0.3125	6.201	5.956	47.6	*
+9	standard019.lcd	cation standard	019	Standard(Calc.Point)	55	5	4.644	6616	760	0.680	0.625	6.941	6.709	108.9	*
+10	standard012.lcd	cation standard	012	Standard(Calc.Point)	55	5	4.660	5642	654	0.514	0.625	6.729	6.785	82.3	*
+11	standard020.lcd	cation standard	020	Standard(Calc.Point)	56	6	4.646	21922	2582	3.293	2.5	6.984	8.121	131.7	*
+12	standard013.lcd	cation standard	013	Standard(Calc.Point)	56	6	4.655	17287	2004	2.502	2.5	6.916	7.865	100.1	*
+13	standard021.lcd	cation standard	021	Standard(Calc.Point)	57	7	4.658	60053	7109	9.801	10	7.144	9.012	98.0	*
+14	standard014.lcd	cation standard	014	Standard(Calc.Point)	57	7	4.674	61289	7320	10.012	10	6.847	8.797	100.1	*
+15	javits_set8_001.lcd	rain	8SE1	Unknown	61	0	4.652	1108	137	-0.260	-----	3.404	3.149	-----	-----
+16	javits_set8_002.lcd	rain	8SE2	Unknown	62	0	4.656	1319	148	-0.224	-----	4.219	3.538	-----	-----
+17	javits_set8_003.lcd	rain	8SE3	Unknown	63	0	4.648	1121	139	-0.258	-----	3.318	3.055	-----	-----
+18	javits_set8_004.lcd	rain	8NW1	Unknown	64	0	4.651	1903	206	-0.124	-----	5.536	4.490	-----	-----
+19	javits_set8_005.lcd	rain	8NW2	Unknown	65	0	4.651	1893	215	-0.126	-----	5.107	4.307	-----	-----
+20	javits_set8_006.lcd	rain	8NW3	Unknown	66	0	4.657	1537	180	-0.187	-----	4.684	4.069	-----	-----
+21	javits_set8_007.lcd	rain	8SW1	Unknown	67	0	4.652	1684	181	-0.162	-----	4.365	3.561	-----	-----
+22	javits_set8_008.lcd	rain	8SW2	Unknown	68	0	4.645	1304	166	-0.226	-----	3.494	3.331	-----	-----
+23	javits_set8_009.lcd	rain	8SW3	Unknown	69	0	4.649	1238	160	-0.238	-----	3.441	3.304	-----	-----
+24	javits_set8_010.lcd	drain	8D1.1	Unknown	70	0	4.651	6602	781	0.678	-----	3.764	5.752	-----	-----
+25	javits_set8_011.lcd	drain	8D1.2	Unknown	71	0	4.653	6441	763	0.651	-----	3.656	5.593	-----	-----
+26	javits_set8_012.lcd	drain	8D1.3	Unknown	72	0	4.653	6416	773	0.646	-----	3.435	5.479	-----	-----
+27	javits_set8_013.lcd	drain	8D2.1	Unknown	73	0	4.652	6932	817	0.734	-----	3.799	5.613	-----	-----
+28	javits_set8_014.lcd	drain	8D2.2	Unknown	74	0	4.655	6900	790	0.729	-----	3.850	5.744	-----	-----
+29	javits_set8_015.lcd	drain	8D2.3	Unknown	75	0	4.646	6992	810	0.745	-----	3.918	5.788	-----	-----
+30	javits_set8_016.lcd	drain	8D3.1	Unknown	76	0	4.645	6680	771	0.691	-----	3.757	5.519	-----	-----
+31	javits_set8_017.lcd	drain	8D3.2	Unknown	77	0	4.652	6514	766	0.663	-----	3.697	5.647	-----	-----
+32	javits_set8_018.lcd	drain	8D3.3	Unknown	78	0	4.645	6479	753	0.657	-----	3.608	5.457	-----	-----
+33	javits_set8_019.lcd	drain	8D4.1	Unknown	79	0	4.649	7295	844	0.796	-----	3.967	5.803	-----	-----
+34	javits_set8_020.lcd	drain	8D4.2	Unknown	80	0	4.643	7074	824	0.759	-----	3.869	5.614	-----	-----
+35	javits_set8_021.lcd	drain	8D4.3	Unknown	81	0	4.646	7149	804	0.771	-----	3.972	5.683	-----	-----
+36	javits_set8_022.lcd	drain	8D5.1	Unknown	82	0	4.643	6755	769	0.704	-----	3.811	5.640	-----	-----
+37	javits_set8_023.lcd	drain	8D5.2	Unknown	83	0	4.643	6569	760	0.672	-----	3.671	5.479	-----	-----
+38	javits_set8_024.lcd	drain	8D5.3	Unknown	84	0	4.644	6821	790	0.715	-----	3.806	5.652	-----	-----
+39	javits_set8_025.lcd	drain	8D6.1	Unknown	85	0	4.645	7401	845	0.814	-----	3.962	5.657	-----	-----
+40	javits_set8_026.lcd	drain	8D6.2	Unknown	86	0	4.643	6245	750	0.617	-----	3.517	5.512	-----	-----
+41	javits_set8_027.lcd	drain	8D6.3	Unknown	87	0	4.643	6375	756	0.639	-----	3.551	5.532	-----	-----
+42	javits_set8_028.lcd	drain	8D7.1	Unknown	88	0	4.651	7043	832	0.753	-----	3.861	5.685	-----	-----
+43	javits_set8_029.lcd	drain	8D7.2	Unknown	89	0	4.645	6610	786	0.679	-----	3.657	5.449	-----	-----
+44	javits_set8_030.lcd	drain	8D7.3	Unknown	90	0	4.644	6982	805	0.743	-----	3.836	5.656	-----	-----
+45	javits_set8_031.lcd	drain	8D8.1	Unknown	91	0	4.644	8146	924	0.942	-----	4.173	5.668	-----	-----
+46	javits_set8_032.lcd	drain	8D8.2	Unknown	92	0	4.643	6589	772	0.676	-----	3.742	5.730	-----	-----
+47	javits_set8_033.lcd	drain	8D8.3	Unknown	93	0	4.645	7384	860	0.811	-----	3.965	5.469	-----	-----
+48	javits_set8_034.lcd	drain	8D9.1	Unknown	94	0	4.643	6773	805	0.707	-----	3.864	5.961	-----	-----
+49	javits_set8_035.lcd	drain	8D9.2	Unknown	95	0	4.644	7043	817	0.753	-----	3.937	5.875	-----	-----
+50	javits_set8_036.lcd	drain	8D9.3	Unknown	96	0	4.645	7042	798	0.753	-----	3.962	5.884	-----	-----
+51	javits_set8_037.lcd	drain	8D10.1	Unknown	97	0	4.763	11932	1043	1.588	-----	5.503	6.155	-----	-----
+52	javits_set8_038.lcd	drain	8D10.2	Unknown	98	0	4.643	5958	696	0.568	-----	3.590	5.442	-----	-----
+53	javits_set8_039.lcd	drain	8D10.3	Unknown	99	0	4.643	6798	819	0.711	-----	3.688	5.273	-----	-----
+54	javits_set8_040.lcd	drain	8D11.1	Unknown	100	0	4.643	6065	730	0.586	-----	3.553	5.531	-----	-----
+55	javits_set8_041.lcd	drain	8D11.2	Unknown	101	0	4.644	5924	699	0.562	-----	3.479	5.395	-----	-----
+56	javits_set8_042.lcd	drain	8D11.3	Unknown	102	0	4.642	7120	801	0.766	-----	3.928	5.364	-----	-----
+57	standard001.lcd	cation standard	001	Standard(No Calc.Point)	51	1	-----	-----	-----	-----	-----	-----	-----	-----	-----
+58	standard002.lcd	cation standard	002	Standard(No Calc.Point)	52	2	4.645	1212	150	-0.242	0.0781	6.306	5.933	-309.9	-----
+59	standard003.lcd	cation standard	003	Standard(No Calc.Point)	53	3	4.651	1857	207	-0.132	0.1563	6.436	5.866	-84.4	-----
+60	standard004.lcd	cation standard	004	Standard(No Calc.Point)	54	4	4.651	2578	305	-0.009	0.3125	6.175	6.670	-2.8	-----
+61	standard005.lcd	cation standard	005	Standard(No Calc.Point)	55	5	4.653	4407	526	0.303	0.625	6.491	7.166	48.5	-----
+62	standard006.lcd	cation standard	006	Standard(No Calc.Point)	56	6	4.663	15793	1851	2.247	2.5	6.754	7.861	89.9	-----
+63	standard007.lcd	cation standard	007	Standard(No Calc.Point)	57	7	4.667	58689	6996	9.568	10	7.050	9.062	95.7	-----
+	Average						4.651	8527	995	1.006		4.683	5.632	100.7	
+	%RSD						0.342444	145.347046	148.217171	210.187643		27.821154	23.068227	62.696522	
+	Maximum						4.763	61289	7320	10.012		7.453	9.062	309.9	
+	Minimum						4.642	1108	137	-0.260		3.318	3.055	0.0	
+	Std. Dev.						0.015926	12393.795486	1474.880657	2.115418		1.302808	1.299291	63.127755	
+
+ID#	4
+Name	Mg2+
+	Data Filename	Sample Name	Sample ID	Sample Type	Vial#	Level#	Ret. Time	Area	Height	Conc.	Std. Conc.	Area%	Height%	Accuracy[%]	Cal. Point
+1	standard008.lcd	cation standard	008	Standard(Calc.Point)	51	1	-----	-----	-----	-----	-----	-----	-----	-----	
+2	standard015.lcd	cation standard	015	Standard(Calc.Point)	51	1	-----	-----	-----	-----	-----	-----	-----	-----	
+3	standard016.lcd	cation standard	016	Standard(Calc.Point)	52	2	-----	-----	-----	-----	0.0781	-----	-----	-----	
+4	standard009.lcd	cation standard	009	Standard(Calc.Point)	52	2	-----	-----	-----	-----	0.0781	-----	-----	-----	
+5	standard017.lcd	cation standard	017	Standard(Calc.Point)	53	3	-----	-----	-----	-----	0.1563	-----	-----	-----	
+6	standard010.lcd	cation standard	010	Standard(Calc.Point)	53	3	-----	-----	-----	-----	0.1563	-----	-----	-----	
+7	standard018.lcd	cation standard	018	Standard(Calc.Point)	54	4	9.665	3657	215	0.219	0.3125	5.194	2.379	70.0	*
+8	standard011.lcd	cation standard	011	Standard(Calc.Point)	54	4	9.660	3684	214	0.220	0.3125	6.524	3.046	70.5	*
+9	standard019.lcd	cation standard	019	Standard(Calc.Point)	55	5	9.651	7779	480	0.450	0.625	8.161	4.236	72.1	*
+10	standard012.lcd	cation standard	012	Standard(Calc.Point)	55	5	9.672	8851	541	0.511	0.625	10.556	5.616	81.7	*
+11	standard020.lcd	cation standard	020	Standard(Calc.Point)	56	6	9.620	56771	3236	3.204	2.5	18.087	10.179	128.2	*
+12	standard013.lcd	cation standard	013	Standard(Calc.Point)	56	6	9.645	42418	2439	2.397	2.5	16.970	9.573	95.9	*
+13	standard021.lcd	cation standard	021	Standard(Calc.Point)	57	7	9.560	168481	9345	9.482	10	20.044	11.848	94.8	*
+14	standard014.lcd	cation standard	014	Standard(Calc.Point)	57	7	9.573	184665	10193	10.392	10	20.631	12.250	103.9	*
+15	javits_set8_001.lcd	rain	8SE1	Unknown	61	0	-----	-----	-----	-----	-----	-----	-----	-----	-----
+16	javits_set8_002.lcd	rain	8SE2	Unknown	62	0	-----	-----	-----	-----	-----	-----	-----	-----	-----
+17	javits_set8_003.lcd	rain	8SE3	Unknown	63	0	-----	-----	-----	-----	-----	-----	-----	-----	-----
+18	javits_set8_004.lcd	rain	8NW1	Unknown	64	0	-----	-----	-----	-----	-----	-----	-----	-----	-----
+19	javits_set8_005.lcd	rain	8NW2	Unknown	65	0	-----	-----	-----	-----	-----	-----	-----	-----	-----
+20	javits_set8_006.lcd	rain	8NW3	Unknown	66	0	-----	-----	-----	-----	-----	-----	-----	-----	-----
+21	javits_set8_007.lcd	rain	8SW1	Unknown	67	0	-----	-----	-----	-----	-----	-----	-----	-----	-----
+22	javits_set8_008.lcd	rain	8SW2	Unknown	68	0	-----	-----	-----	-----	-----	-----	-----	-----	-----
+23	javits_set8_009.lcd	rain	8SW3	Unknown	69	0	-----	-----	-----	-----	-----	-----	-----	-----	-----
+24	javits_set8_010.lcd	drain	8D1.1	Unknown	70	0	9.658	22692	1315	1.289	-----	12.937	9.687	-----	-----
+25	javits_set8_011.lcd	drain	8D1.2	Unknown	71	0	9.658	23551	1344	1.337	-----	13.367	9.845	-----	-----
+26	javits_set8_012.lcd	drain	8D1.3	Unknown	72	0	9.657	24223	1335	1.375	-----	12.969	9.462	-----	-----
+27	javits_set8_013.lcd	drain	8D2.1	Unknown	73	0	9.654	22261	1316	1.264	-----	12.201	9.035	-----	-----
+28	javits_set8_014.lcd	drain	8D2.2	Unknown	74	0	9.659	23441	1301	1.331	-----	13.078	9.458	-----	-----
+29	javits_set8_015.lcd	drain	8D2.3	Unknown	75	0	9.652	22956	1331	1.303	-----	12.863	9.509	-----	-----
+30	javits_set8_016.lcd	drain	8D3.1	Unknown	76	0	9.654	22366	1306	1.270	-----	12.577	9.350	-----	-----
+31	javits_set8_017.lcd	drain	8D3.2	Unknown	77	0	9.657	22181	1294	1.260	-----	12.588	9.532	-----	-----
+32	javits_set8_018.lcd	drain	8D3.3	Unknown	78	0	9.651	24328	1364	1.381	-----	13.547	9.878	-----	-----
+33	javits_set8_019.lcd	drain	8D4.1	Unknown	79	0	9.655	23275	1329	1.321	-----	12.659	9.136	-----	-----
+34	javits_set8_020.lcd	drain	8D4.2	Unknown	80	0	9.650	23181	1329	1.316	-----	12.678	9.060	-----	-----
+35	javits_set8_021.lcd	drain	8D4.3	Unknown	81	0	9.651	22703	1309	1.289	-----	12.615	9.255	-----	-----
+36	javits_set8_022.lcd	drain	8D5.1	Unknown	82	0	9.647	23130	1335	1.313	-----	13.051	9.786	-----	-----
+37	javits_set8_023.lcd	drain	8D5.2	Unknown	83	0	9.646	22347	1266	1.269	-----	12.490	9.122	-----	-----
+38	javits_set8_024.lcd	drain	8D5.3	Unknown	84	0	9.650	22948	1320	1.303	-----	12.803	9.443	-----	-----
+39	javits_set8_025.lcd	drain	8D6.1	Unknown	85	0	9.648	23987	1325	1.361	-----	12.842	8.872	-----	-----
+40	javits_set8_026.lcd	drain	8D6.2	Unknown	86	0	9.647	22727	1326	1.291	-----	12.799	9.753	-----	-----
+41	javits_set8_027.lcd	drain	8D6.3	Unknown	87	0	9.650	23186	1316	1.316	-----	12.915	9.631	-----	-----
+42	javits_set8_028.lcd	drain	8D7.1	Unknown	88	0	9.655	22880	1337	1.299	-----	12.545	9.132	-----	-----
+43	javits_set8_029.lcd	drain	8D7.2	Unknown	89	0	9.646	22045	1281	1.252	-----	12.196	8.874	-----	-----
+44	javits_set8_030.lcd	drain	8D7.3	Unknown	90	0	9.649	23688	1329	1.345	-----	13.013	9.340	-----	-----
+45	javits_set8_031.lcd	drain	8D8.1	Unknown	91	0	9.649	22758	1329	1.292	-----	11.659	8.154	-----	-----
+46	javits_set8_032.lcd	drain	8D8.2	Unknown	92	0	9.650	22219	1298	1.262	-----	12.617	9.628	-----	-----
+47	javits_set8_033.lcd	drain	8D8.3	Unknown	93	0	9.648	21874	1228	1.243	-----	11.746	7.812	-----	-----
+48	javits_set8_034.lcd	drain	8D9.1	Unknown	94	0	9.647	22730	1302	1.291	-----	12.968	9.642	-----	-----
+49	javits_set8_035.lcd	drain	8D9.2	Unknown	95	0	9.645	22224	1289	1.262	-----	12.424	9.270	-----	-----
+50	javits_set8_036.lcd	drain	8D9.3	Unknown	96	0	9.644	22775	1313	1.293	-----	12.815	9.686	-----	-----
+51	javits_set8_037.lcd	drain	8D10.1	Unknown	97	0	9.774	45130	1716	2.550	-----	20.813	10.122	-----	-----
+52	javits_set8_038.lcd	drain	8D10.2	Unknown	98	0	9.645	22339	1291	1.269	-----	13.461	10.097	-----	-----
+53	javits_set8_039.lcd	drain	8D10.3	Unknown	99	0	9.647	22211	1241	1.262	-----	12.049	7.992	-----	-----
+54	javits_set8_040.lcd	drain	8D11.1	Unknown	100	0	9.644	23484	1328	1.333	-----	13.759	10.066	-----	-----
+55	javits_set8_041.lcd	drain	8D11.2	Unknown	101	0	9.644	22636	1303	1.285	-----	13.293	10.059	-----	-----
+56	javits_set8_042.lcd	drain	8D11.3	Unknown	102	0	9.645	21970	1253	1.248	-----	12.120	8.391	-----	-----
+57	standard001.lcd	cation standard	001	Standard(No Calc.Point)	51	1	-----	-----	-----	-----	-----	-----	-----	-----	-----
+58	standard002.lcd	cation standard	002	Standard(No Calc.Point)	52	2	-----	-----	-----	-----	0.0781	-----	-----	-----	-----
+59	standard003.lcd	cation standard	003	Standard(No Calc.Point)	53	3	9.702	2027	141	0.127	0.1563	7.026	3.985	81.4	-----
+60	standard004.lcd	cation standard	004	Standard(No Calc.Point)	54	4	9.661	5338	285	0.313	0.3125	12.785	6.250	100.2	-----
+61	standard005.lcd	cation standard	005	Standard(No Calc.Point)	55	5	9.669	9224	554	0.532	0.625	13.586	7.555	85.1	-----
+62	standard006.lcd	cation standard	006	Standard(No Calc.Point)	56	6	9.658	41652	2372	2.354	2.5	17.814	10.076	94.2	-----
+63	standard007.lcd	cation standard	007	Standard(No Calc.Point)	57	7	9.576	171530	9413	9.653	10	20.606	12.194	96.5	-----
+	Average						9.650	32229	1805	1.825		13.183	8.854	90.3	
+	%RSD						0.310939	122.318492	119.927856	121.430154		24.456963	23.432399	17.900600	
+	Maximum						9.774	184665	10193	10.392		20.813	12.250	128.2	
+	Minimum						9.560	2027	141	0.127		5.194	2.379	70.0	
+	Std. Dev.						0.030005	39421.709231	2164.559926	2.215546		3.224278	2.074613	16.172305	
+
+ID#	5
+Name	Ca2+
+	Data Filename	Sample Name	Sample ID	Sample Type	Vial#	Level#	Ret. Time	Area	Height	Conc.	Std. Conc.	Area%	Height%	Accuracy[%]	Cal. Point
+1	standard008.lcd	cation standard	008	Standard(Calc.Point)	51	1	-----	-----	-----	-----	-----	-----	-----	-----	
+2	standard015.lcd	cation standard	015	Standard(Calc.Point)	51	1	-----	-----	-----	-----	-----	-----	-----	-----	
+3	standard016.lcd	cation standard	016	Standard(Calc.Point)	52	2	-----	-----	-----	-----	0.1563	-----	-----	-----	
+4	standard009.lcd	cation standard	009	Standard(Calc.Point)	52	2	-----	-----	-----	-----	0.1563	-----	-----	-----	
+5	standard017.lcd	cation standard	017	Standard(Calc.Point)	53	3	-----	-----	-----	-----	0.3125	-----	-----	-----	
+6	standard010.lcd	cation standard	010	Standard(Calc.Point)	53	3	-----	-----	-----	-----	0.3125	-----	-----	-----	
+7	standard018.lcd	cation standard	018	Standard(Calc.Point)	54	4	12.105	2622	144	0.259	0.625	3.725	1.600	41.4	*
+8	standard011.lcd	cation standard	011	Standard(Calc.Point)	54	4	12.116	3451	200	0.336	0.625	6.111	2.847	53.8	*
+9	standard019.lcd	cation standard	019	Standard(Calc.Point)	55	5	12.103	10535	513	0.995	1.25	11.052	4.533	79.6	*
+10	standard012.lcd	cation standard	012	Standard(Calc.Point)	55	5	12.130	10884	537	1.027	1.25	12.980	5.575	82.2	*
+11	standard020.lcd	cation standard	020	Standard(Calc.Point)	56	6	12.051	68517	3252	6.385	5	21.830	10.231	127.7	*
+12	standard013.lcd	cation standard	013	Standard(Calc.Point)	56	6	12.091	54265	2561	5.060	5	21.709	10.050	101.2	*
+13	standard021.lcd	cation standard	021	Standard(Calc.Point)	57	7	11.949	207704	9443	19.323	20	24.710	11.972	96.6	*
+14	standard014.lcd	cation standard	014	Standard(Calc.Point)	57	7	11.969	218921	9893	20.366	20	24.458	11.890	101.8	*
+15	javits_set8_001.lcd	rain	8SE1	Unknown	61	0	-----	-----	-----	-----	-----	-----	-----	-----	-----
+16	javits_set8_002.lcd	rain	8SE2	Unknown	62	0	-----	-----	-----	-----	-----	-----	-----	-----	-----
+17	javits_set8_003.lcd	rain	8SE3	Unknown	63	0	-----	-----	-----	-----	-----	-----	-----	-----	-----
+18	javits_set8_004.lcd	rain	8NW1	Unknown	64	0	-----	-----	-----	-----	-----	-----	-----	-----	-----
+19	javits_set8_005.lcd	rain	8NW2	Unknown	65	0	-----	-----	-----	-----	-----	-----	-----	-----	-----
+20	javits_set8_006.lcd	rain	8NW3	Unknown	66	0	-----	-----	-----	-----	-----	-----	-----	-----	-----
+21	javits_set8_007.lcd	rain	8SW1	Unknown	67	0	-----	-----	-----	-----	-----	-----	-----	-----	-----
+22	javits_set8_008.lcd	rain	8SW2	Unknown	68	0	-----	-----	-----	-----	-----	-----	-----	-----	-----
+23	javits_set8_009.lcd	rain	8SW3	Unknown	69	0	-----	-----	-----	-----	-----	-----	-----	-----	-----
+24	javits_set8_010.lcd	drain	8D1.1	Unknown	70	0	12.054	95153	4431	8.861	-----	54.247	32.642	-----	-----
+25	javits_set8_011.lcd	drain	8D1.2	Unknown	71	0	12.056	93668	4377	8.723	-----	53.164	32.071	-----	-----
+26	javits_set8_012.lcd	drain	8D1.3	Unknown	72	0	12.054	101042	4510	9.408	-----	54.099	31.964	-----	-----
+27	javits_set8_013.lcd	drain	8D2.1	Unknown	73	0	12.054	94319	4383	8.783	-----	51.695	30.094	-----	-----
+28	javits_set8_014.lcd	drain	8D2.2	Unknown	74	0	12.054	96786	4508	9.012	-----	54.000	32.781	-----	-----
+29	javits_set8_015.lcd	drain	8D2.3	Unknown	75	0	12.046	94635	4476	8.812	-----	53.027	31.975	-----	-----
+30	javits_set8_016.lcd	drain	8D3.1	Unknown	76	0	12.047	93574	4395	8.714	-----	52.620	31.466	-----	-----
+31	javits_set8_017.lcd	drain	8D3.2	Unknown	77	0	12.052	96454	4531	8.982	-----	54.739	33.385	-----	-----
+32	javits_set8_018.lcd	drain	8D3.3	Unknown	78	0	12.044	96535	4529	8.989	-----	53.756	32.804	-----	-----
+33	javits_set8_019.lcd	drain	8D4.1	Unknown	79	0	12.050	94875	4430	8.835	-----	51.599	30.452	-----	-----
+34	javits_set8_020.lcd	drain	8D4.2	Unknown	80	0	12.044	92745	4390	8.637	-----	50.721	29.928	-----	-----
+35	javits_set8_021.lcd	drain	8D4.3	Unknown	81	0	12.044	94560	4469	8.805	-----	52.541	31.591	-----	-----
+36	javits_set8_022.lcd	drain	8D5.1	Unknown	82	0	12.042	95016	4437	8.848	-----	53.613	32.532	-----	-----
+37	javits_set8_023.lcd	drain	8D5.2	Unknown	83	0	12.041	96619	4526	8.997	-----	54.002	32.615	-----	-----
+38	javits_set8_024.lcd	drain	8D5.3	Unknown	84	0	12.044	95839	4502	8.924	-----	53.471	32.215	-----	-----
+39	javits_set8_025.lcd	drain	8D6.1	Unknown	85	0	12.044	94276	4417	8.779	-----	50.475	29.571	-----	-----
+40	javits_set8_026.lcd	drain	8D6.2	Unknown	86	0	12.040	96695	4510	9.004	-----	54.456	33.160	-----	-----
+41	javits_set8_027.lcd	drain	8D6.3	Unknown	87	0	12.042	97545	4531	9.083	-----	54.333	33.165	-----	-----
+42	javits_set8_028.lcd	drain	8D7.1	Unknown	88	0	12.050	92755	4361	8.638	-----	50.855	29.791	-----	-----
+43	javits_set8_029.lcd	drain	8D7.2	Unknown	89	0	12.040	94204	4452	8.772	-----	52.116	30.849	-----	-----
+44	javits_set8_030.lcd	drain	8D7.3	Unknown	90	0	12.043	94687	4455	8.817	-----	52.016	31.304	-----	-----
+45	javits_set8_031.lcd	drain	8D8.1	Unknown	91	0	12.043	93319	4367	8.690	-----	47.808	26.796	-----	-----
+46	javits_set8_032.lcd	drain	8D8.2	Unknown	92	0	12.041	96593	4462	8.994	-----	54.851	33.098	-----	-----
+47	javits_set8_033.lcd	drain	8D8.3	Unknown	93	0	12.045	87937	4180	8.190	-----	47.222	26.590	-----	-----
+48	javits_set8_034.lcd	drain	8D9.1	Unknown	94	0	12.041	94632	4456	8.812	-----	53.989	32.999	-----	-----
+49	javits_set8_035.lcd	drain	8D9.2	Unknown	95	0	12.041	96247	4514	8.962	-----	53.803	32.469	-----	-----
+50	javits_set8_036.lcd	drain	8D9.3	Unknown	96	0	12.038	96848	4512	9.018	-----	54.493	33.271	-----	-----
+51	javits_set8_037.lcd	drain	8D10.1	Unknown	97	0	12.177	88340	4157	8.227	-----	40.740	24.523	-----	-----
+52	javits_set8_038.lcd	drain	8D10.2	Unknown	98	0	12.038	89700	4284	8.354	-----	54.052	33.513	-----	-----
+53	javits_set8_039.lcd	drain	8D10.3	Unknown	99	0	12.044	87250	4144	8.126	-----	47.331	26.684	-----	-----
+54	javits_set8_040.lcd	drain	8D11.1	Unknown	100	0	12.041	90308	4242	8.410	-----	52.909	32.163	-----	-----
+55	javits_set8_041.lcd	drain	8D11.2	Unknown	101	0	12.040	93058	4326	8.666	-----	54.651	33.386	-----	-----
+56	javits_set8_042.lcd	drain	8D11.3	Unknown	102	0	12.043	88843	4205	8.274	-----	49.010	28.159	-----	-----
+57	standard001.lcd	cation standard	001	Standard(No Calc.Point)	51	1	-----	-----	-----	-----	-----	-----	-----	-----	-----
+58	standard002.lcd	cation standard	002	Standard(No Calc.Point)	52	2	-----	-----	-----	-----	0.1563	-----	-----	-----	-----
+59	standard003.lcd	cation standard	003	Standard(No Calc.Point)	53	3	12.119	1735	99	0.177	0.3125	6.015	2.794	56.5	-----
+60	standard004.lcd	cation standard	004	Standard(No Calc.Point)	54	4	12.125	6381	289	0.608	0.625	15.285	6.334	97.3	-----
+61	standard005.lcd	cation standard	005	Standard(No Calc.Point)	55	5	12.131	11770	565	1.109	1.25	17.337	7.695	88.7	-----
+62	standard006.lcd	cation standard	006	Standard(No Calc.Point)	56	6	12.102	51289	2406	4.783	5	21.936	10.220	95.7	-----
+63	standard007.lcd	cation standard	007	Standard(No Calc.Point)	57	7	11.974	210881	9484	19.619	20	25.333	12.286	98.1	-----
+	Average						12.056	86174	4019	8.026		42.063	24.522	86.2	
+	%RSD						0.341880	53.906955	52.428924	53.804458		40.389246	45.390738	27.329688	
+	Maximum						12.177	218921	9893	20.366		54.851	33.513	127.7	
+	Minimum						11.949	1735	99	0.177		3.725	1.600	41.4	
+	Std. Dev.						0.041218	46453.843586	2106.867597	4.318311		16.988804	11.130909	23.557943	
+
